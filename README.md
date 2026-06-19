@@ -70,3 +70,7 @@ The nichrome-wire heater generates heat while the DS18B20 continuously monitors 
 - Wearable Device Design
 
 ---
+
+## Disclaimer
+
+This project was developed for educational, research, and prototype purposes. It is not intended to replace certified medical devices or professional medical diagnosis.
